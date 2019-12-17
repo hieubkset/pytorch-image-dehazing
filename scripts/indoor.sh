@@ -1,0 +1,1 @@
+python main.py --data_dir dataset/indoor --exp indoor --gpu 0

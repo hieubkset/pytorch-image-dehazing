@@ -1,0 +1,1 @@
+python demo.py --model trained_model/indoor.pt --images inputs/31.png inputs/32.png inputs/33.png inputs/34.png inputs/35.png --gpu 0

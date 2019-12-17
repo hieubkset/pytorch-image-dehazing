@@ -1,0 +1,1 @@
+python demo.py --model trained_model/outdoor.pt --images inputs/41.png inputs/42.png inputs/43.png inputs/44.png inputs/45.png --gpu 0

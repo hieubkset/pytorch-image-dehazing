@@ -1,0 +1,1 @@
+python main.py --data_dir dataset/outdoor --exp outdoor --gpu 0
