@@ -58,6 +58,8 @@ After downloading dataset successfully, you need to put images in right folders.
 
 ![data](figs/data.PNG)
 
+I recommend you using ```ln -s``` command to prepare data. If you are new at that command, check out this [tutorial](https://www.computerhope.com/unix/uln.htm).
+
 ## Demo
 
 I provide pretrained models ([here](https://drive.google.com/open?id=1t66aicSFaG1iY9xhHiaVCxFkzc7-6e9I)). Downloading the zip file and extracting to _trained_model_ folder. You can generate de-hazy images by running the following commands.
