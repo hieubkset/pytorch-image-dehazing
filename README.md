@@ -56,6 +56,8 @@ After downloading dataset successfully, you need to put images in right folders.
 +  dataset/outdoor/hazy:  includes 35 hazy images from 01 to 35 in **O-HAZE** dataset
 + dataset/outdoor/GT: includes 35 ground-truth images from 01 to 35 in **O-HAZE** dataset
 
+![data](figs/data.PNG)
+
 ## Demo
 
 I provide pretrained models ([here](https://drive.google.com/open?id=1t66aicSFaG1iY9xhHiaVCxFkzc7-6e9I)). Downloading the zip file and extracting to _trained_model_ folder. You can generate de-hazy images by running the following commands.
