@@ -113,7 +113,13 @@ I evaluate my models by NIQE score. The NIQE source code is available at [here](
 | **Indoor**  |   6.4564    |   6.7746    |  4.9167  |
 | **Outdoor** |   4.1471    |   4.4204    |  2.6605  |
 
+## References
 
+1. Densely Connected Pyramid Dehazing Network (CVPR'2018)
+2. FD-GAN: Generative adversarial Networks with Fusion-discriminator for Single Image Dehazing(AAAI'20)
+3. Multi-scale Single Image Dehazing using Perceptual Pyramid Deep Network (NTIRE-2018-Dehazing-Challenge)
+
+I hope my instructions are clear enough for you. If you find this repo useful, please give me a star. Many thanks!
 
 
 
