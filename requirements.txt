@@ -1,6 +1,6 @@
 tqdm==4.19.9
 numpy==1.17.3
-tensorflow==1.12.0
+tensorflow==2.5.3
 tensorboardX
 torch==1.0.0
 Pillow==6.2.0
